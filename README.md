@@ -1,0 +1,2 @@
+# Discord-Bot-base
+これは世界で最もシンプルで小さなDiscordのボットのテンプレートです

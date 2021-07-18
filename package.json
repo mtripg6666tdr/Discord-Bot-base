@@ -1,0 +1,14 @@
+{
+  "name": "discord-bot-base",
+  "version": "1.0.0",
+  "description": "世界で一番小さなDiscord Botのテンプレート",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "mtripg6666tdr",
+  "dependencies": {
+    "discord.js": "^12.5.3"
+  }
+}
