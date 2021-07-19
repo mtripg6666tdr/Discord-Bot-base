@@ -17,7 +17,7 @@ client.on("ready",()=>{
     switch(command){
       case "ping":{
         message.channel.send("pingは" + client.ws.ping + "ミリ秒です").catch(console.error);
-      }
+      }break;
     }
   }
 }).login(process.env.TOKEN);
